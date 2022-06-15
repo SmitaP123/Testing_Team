@@ -8,6 +8,7 @@ public class A
 		System.out.println("smita----------cjc");
 		System.out.println("smita----------pune");
 		
+		System.out.println("smita-------cjc------Hello");
 	}
 
 }
